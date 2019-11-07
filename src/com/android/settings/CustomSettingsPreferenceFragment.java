@@ -139,6 +139,6 @@ public abstract class CustomSettingsPreferenceFragment extends SettingsPreferenc
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.NITROGEN_SETTINGS;
+        return MetricsEvent.ERROR;
     }
 }
